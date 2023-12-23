@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+div {
+width: 50%;
+margin-left: 25%;
+margin-top: 15vh;
+
+
+}
+
+img {
+    width: 100%;
+
+    border: 5px solid white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+    text-align: center;
+    text-transform: lowercase;
+    font-size: larger;
+}
